@@ -1,5 +1,6 @@
 # Categories-Blog-Layout
 This is an override for Joomla 4.x
+This override allows you to display subcategories of a main category for content in a blog layout.
 
 ## Installation
 1. Copy the 3 files or download them here
